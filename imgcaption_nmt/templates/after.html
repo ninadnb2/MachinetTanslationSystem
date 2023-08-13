@@ -1,0 +1,28 @@
+{%extends "base.html"%}
+    
+{%block content%}
+
+<center>
+
+	<h1 class='display-2 notranslate'>Predicted Text </h1>
+
+	<br>
+	<br>
+	
+<img src="{{url_for('static', filename='file.jpg')}}" alt="image" height=300px>
+
+<br>
+<br>
+<br>
+
+<h2 class='text-black'>
+	{{data}}
+</h2>
+
+<br>
+
+<h2 class='text-black'>
+	{{data1}}
+</h2>
+
+{%endblock%}
