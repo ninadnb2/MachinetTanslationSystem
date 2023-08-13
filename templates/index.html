@@ -1,0 +1,21 @@
+{%extends "base.html"%}
+
+{%block content%}
+
+<center>
+    <br>
+<br>
+	
+<h1 class='display-1'>Machine Translation</h1>
+<h1 class='display-1'>Using GTS</h1>
+
+<br>
+<br>
+
+<form action="{{url_for('after')}}" method='POST' enctype='multipart/form-data'>
+    <input type="file" name='file1'>
+<input type="submit" name="btn" value='Predict Output' class='btn btn-warning'> 
+</form>
+</center>
+
+{%endblock%}
