@@ -25,8 +25,9 @@ The accuracy achieved on HPC server was 86%.
 
 Results:-
 
-![image](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/f52ca767-2ed5-4df2-a2dd-ce66191a8a93)
+![Picture1](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/ec3e6494-c1d0-47c0-bee2-8e0a5ba465d7)
 
-![image](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/19f2c649-f4c1-4e98-830d-5d59023b7efe)
+![Picture2](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/74cfb8e1-77ee-4354-95b6-d59f0a8f186e)
 
-![image](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/3ca62416-b926-4568-95a2-d127701d7d93)
+
+![Picture3](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/496cf2cc-90c9-450d-9ce8-f0caabadced5)
