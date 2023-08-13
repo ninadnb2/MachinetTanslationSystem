@@ -24,6 +24,7 @@ Our NMT model is 75.18% accurate.
 The accuracy achieved on HPC server was 86%.
 
 Results:-
+
 ![image](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/f52ca767-2ed5-4df2-a2dd-ce66191a8a93)
 
 ![image](https://github.com/ninadnb2/MachinetTanslationSystem/assets/68941939/19f2c649-f4c1-4e98-830d-5d59023b7efe)
